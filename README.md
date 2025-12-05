@@ -4,8 +4,15 @@
 
 ![BabelGopherLogo](./BabelGopher.png)
 
+## Award
+
+**Most Valuable Feedback Winner** - [Google Chrome Built-in AI Challenge 2025](https://googlechromeai2025.devpost.com/updates/38172-and-the-winner-is)
+
+[![Watch Demo](https://img.youtube.com/vi/oCrh5aDimZ8/0.jpg)](https://www.youtube.com/watch?v=oCrh5aDimZ8)
+
 ## Table of Contents
 
+- [Award](#award)
 - [🐟 A Hitchhiker's Tale (The Babel Fish)](#-a-hitchhikers-tale-the-babel-fish)
 - [✨ Key Features](#-key-features)
 - [🛠️ Tech Stack](#️-tech-stack)
@@ -427,4 +434,7 @@ MIT License - see [LICENSE](./LICENSE)
 
 ## Hackathon Submission
 
-Phase 1 MVP for Chrome Built-in AI Challenge 2025
+**Most Valuable Feedback Winner** at [Google Chrome Built-in AI Challenge 2025](https://googlechromeai2025.devpost.com/updates/38172-and-the-winner-is)
+
+- [Devpost Project Page](https://devpost.com/software/babelgopher)
+- [Demo Video](https://www.youtube.com/watch?v=oCrh5aDimZ8)
